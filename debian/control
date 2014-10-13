@@ -1,0 +1,16 @@
+Source: erlang-localtime
+Section: devel
+Priority: extra
+Maintainer: Aleksey Morarash <aleksey.morarash@proffero.com>
+Build-Depends: debhelper (>= 8.0.0), erlang-base, erlang-crypto,
+ erlang-syntax-tools
+Standards-Version: 3.9.3
+Homepage: https://github.com/dmitryme/erlang_localtime
+Vcs-Browser: https://github.com/dmitryme/erlang_localtime
+Vcs-Git: https://github.com/dmitryme/erlang_localtime.git
+
+Package: erlang-localtime
+Architecture: all
+Depends: erlang-base
+Description: Library for conversion from one local time to another
+ Erlang library for conversion from one local time to another.

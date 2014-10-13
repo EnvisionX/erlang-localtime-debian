@@ -1,0 +1,5 @@
+erlang-localtime (1.0) unstable; urgency=low
+
+  * Initial release for Debian.
+
+ -- Aleksey Morarash <aleksey.morarash@proffero.com>  Mon, 13 Oct 2014 21:05:00 +0300
